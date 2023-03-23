@@ -1,10 +1,10 @@
 {
-  "name": "@nestjs/schedule",
-  "version": "2.2.0",
+  "name": "@djuretic/nestjs-schedule",
+  "version": "1.0.0",
   "description": "Nest - modern, fast, powerful node.js web framework (@schedule)",
-  "author": "Kamil Mysliwiec",
+  "author": "Damir Juretic",
   "license": "MIT",
-  "url": "https://github.com/nestjs/schedule#readme",
+  "url": "https://github.com/minkainc/nestjs-schedule/#readme",
   "scripts": {
     "build": "rimraf -rf dist && tsc -p tsconfig.json",
     "format": "prettier **/**/*.ts --ignore-path ./.prettierignore --write",
@@ -67,6 +67,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestjs/schedule"
+    "url": "https://github.com/minkainc/nestjs-schedule"
   }
 }
